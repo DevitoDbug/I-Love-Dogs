@@ -16,6 +16,9 @@ function addNewDoggo(){
         img.alt = "Cute doggo";
         img.className = "gen-image";
         doggos.innerHTML = img.outerHTML;
+    }).catch(function (error){
+        //handling the error
+        alert("Sorry! something went wrong with the sever");
     });
 }
 
