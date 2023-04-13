@@ -86,7 +86,7 @@ p:hover{
 }
 
 .button{
-    width: 95px;
+    width: 100px;
     height: 40px;
     border-radius: 50px;
     border: 2px solid #de8394;
@@ -97,7 +97,7 @@ p:hover{
     transition: all 0.3s ease-in-out;
 }
 .button:hover{
-    width: 105px;
+    width: 115px;
     height: 50px;
     color:cyan;
 }
