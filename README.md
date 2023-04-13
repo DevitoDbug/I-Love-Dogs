@@ -24,4 +24,4 @@ Thanks to the Dog CEO API for providing the dog pictures.
 Thanks to the developers of HTML, CSS, and JavaScript for providing the tools to build this application.
 
 ## Screenshot
-[Screenshot](https://github.com/DevitoDbug/I-Love-Dogs/blob/master/image1/screenshot_.jpg?raw=true)
+![Screenshot](https://github.com/DevitoDbug/I-Love-Dogs/blob/master/image1/screenshot_.jpg?raw=true)
