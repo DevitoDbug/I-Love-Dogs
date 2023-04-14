@@ -21,5 +21,4 @@ function addNewDoggo(){
         alert("Sorry! something went wrong with the sever");
     });
 }
-
 document.querySelector("button").addEventListener("click",addNewDoggo);
